@@ -37,7 +37,7 @@ def GameLoop():
     game_over = False
     game_menu = False
 
-    x = screen_width / 2 
+    x = screen_width / 2 # initial player position
     y = screen_height / 2
 
     x_new = 0
